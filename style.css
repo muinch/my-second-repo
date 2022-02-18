@@ -1,4 +1,8 @@
 body {
-  color: darkslategrey;
   background-color: aliceblue;
+}
+
+h2,
+h4 {
+  color: darkslategrey;
 }
